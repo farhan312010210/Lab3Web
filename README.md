@@ -22,3 +22,9 @@ langkah yang kedua kita masukan order list
 
 Selanjutnya kita masukan Unorder list
 ![Unorder List](screenshoot/unorderlist.JPG)
+
+4.**DESCRIPTION LIST**
+Tambahkan Description List
+![Description list](screenshoot/descriptionlist.JPG)
+
+

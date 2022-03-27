@@ -38,3 +38,7 @@ Pada point ini, saya akan membuat tabel
 * **Menggabungkan sel data**
 ![Menggabungkan Sel Data](screenshoot/seldata.JPG)
 
+5.**MEMBUAT FORM**
+Pada point terakhir kita membuat form
+
+![Membuat Form](screenshoot/membuatform.JPG)

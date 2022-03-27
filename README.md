@@ -31,7 +31,6 @@ Tambahkan Description List
 
 * **MEMBUAT TABEL**
 
-
 Pada point ini, saya akan membuat tabel
 ![Membuat Tabel](screenshoot/membuattabel.JPG)
 
@@ -42,3 +41,8 @@ Pada point ini, saya akan membuat tabel
 Pada point terakhir kita membuat form
 
 ![Membuat Form](screenshoot/membuatform.JPG)
+
+* **MENAMBAHKAN STYLE PADA FORM**
+disini kita akan memodifikasi form agar menjadi lebih menarik dengan cara menambahkan style css
+
+![Menambahkan style pada form](screenshoot/modifikasi.JPG)

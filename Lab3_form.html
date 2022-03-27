@@ -24,7 +24,9 @@
 </head>
 <body>
  <header>
- <h1>Membuat Form</h1>
+     <center>
+     <img src="screenshoot/logo.png" alt="" width="200" height="120">
+ <h1>DATA FORM BOOKING</h1></center>
  </header>
  <form action="proses.php" method="post">
     <fieldset>
@@ -39,11 +41,32 @@
     </p>
     <p>
     <label>Jenis Kelamin</label>
-    <input id="jk_l" type="radio" name="kelamin" value="L" /><label
-for="jk_l">Laki-laki</label>
-    <input id="jk_p" type="radio" name="kelamin" value="P" /><label
-for="jk_p">Perempuan</label>
-</p>
+    <input id="jk_l" type="radio" name="kelamin" value="L" /><label for="jk_l">Laki-laki</label>
+    <input id="jk_p" type="radio" name="kelamin" value="P" /><label for="jk_p">Perempuan</label>
+    </p>
+
+    <P>
+        <label>Cabang</label>
+        <select name="cabang" size="5" multiple="multiple">
+            <option value="Cikarang">Cikarang</option>
+            <option value="Bekasi">Bekasi</option>
+            <option value="Cibitung">Cibitung</option>
+            <option value="Jakarta">Jakarta</option>
+            <option value="Kudus">Kudus</option>
+        </select>
+    </P>
+
+    <P>
+        <label>Data Barang</label>
+        <select name="barang">
+            <option value="Kamera">Kamera</option>
+            <option value="Tripod">Tripod</option>
+            <option value="Monitor">Monitor</option>
+            <option value="Lighting">Lighting</option>
+            <option value="Batry">Batry</option>
+        </select>
+    </P>
+
 <p><input type="submit" value="Login"></p>
 </fieldset>
 </form>   

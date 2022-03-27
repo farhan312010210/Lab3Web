@@ -35,14 +35,31 @@ Pada point ini, saya akan membuat tabel
 ![Membuat Tabel](screenshoot/membuattabel.JPG)
 
 * **Menggabungkan sel data**
+
 ![Menggabungkan Sel Data](screenshoot/seldata.JPG)
 
 5.**MEMBUAT FORM**
+
 Pada point terakhir kita membuat form
 
 ![Membuat Form](screenshoot/membuatform.JPG)
 
 * **MENAMBAHKAN STYLE PADA FORM**
+
 disini kita akan memodifikasi form agar menjadi lebih menarik dengan cara menambahkan style css
 
 ![Menambahkan style pada form](screenshoot/modifikasi.JPG)
+
+
+# **PERTANYAAN**
+
+Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+
+# **JAWABAN**
+
+
+Saya menambahkan beberapa fitur
+* Dropdown menu & Listbox dengan multiple selection
+
+![JAWAB](screenshoot/SOAL.JPG)

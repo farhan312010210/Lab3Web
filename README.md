@@ -29,7 +29,12 @@ Tambahkan Description List
 ![Description list](screenshoot/descriptionlist.JPG)
 
 
-5.**MEMBUAT TABEL**
+* **MEMBUAT TABEL**
 
-Pada point kelima, saya akan membuat tabel
+
+Pada point ini, saya akan membuat tabel
 ![Membuat Tabel](screenshoot/membuattabel.JPG)
+
+* **Menggabungkan sel data**
+![Menggabungkan Sel Data](screenshoot/seldata.JPG)
+
